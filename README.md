@@ -11,7 +11,7 @@ When using the contact data provided by the **Epydemix** package please ensure t
 
 ## Supported Geographies
 
-A comprehensive list of supported geographies can be found in the [locations.csv](https://github.com/ngozzi/epydemix/blob/main/epydemix_data/locations.csv) file. This file provides detailed information about the available contact matrices and population data for each location. A sample of the file is shown below:
+A comprehensive list of supported geographies can be found in the [locations.csv](https://github.com/ngozzi/epydemix-data/blob/main/locations.csv) file. This file provides detailed information about the available contact matrices and population data for each location. A sample of the file is shown below:
 
 | **location**    | **primary_contact_source** | **mistry_2021** | **prem_2021** | **prem_2017** | **population_source** |
 |-----------------|----------------------------|-----------------|---------------|---------------|------------------------|

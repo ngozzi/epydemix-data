@@ -2,7 +2,7 @@
 
 This folder contains real-world population data and synthetic contact matrices used for epidemic modeling and simulation in the [**epydemix**](https://github.com/ngozzi/epydemix/tree/main) python package. The data covers demographic distributions and various contact matrices for more than $400$ regions worldwide.
 
-The contact matrices indicate interactions between individuals in different contexts (e.g., home, work, school, community) and are sourced the following studies:
+The contact matrices indicate interactions between individuals in different contexts (e.g., home, work, school, community) and are sourced from the following studies:
 - [Inferring high-resolution human mixing patterns for disease modeling](https://www.nature.com/articles/s41467-020-20544-y) (`mistry_2021`)
 - [Projecting contact matrices in 177 geographical regions: An update and comparison with empirical data for the COVID-19 era](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009098) (`prem_2021`)
 - [Projecting social contact matrices in 152 countries using contact surveys and demographic data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005697) (`prem_2017`)

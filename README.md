@@ -1,6 +1,6 @@
 # Epydemix Data
 
-This folder contains real-world population data and synthetic contact matrices used for epidemic modeling and simulation in the **Epydemix** package. The data covers demographic distributions and various contact matrices for more than $400$ regions worldwide.
+This folder contains real-world population data and synthetic contact matrices used for epidemic modeling and simulation in the [**epydemix**](https://github.com/ngozzi/epydemix/tree/main) python package. The data covers demographic distributions and various contact matrices for more than $400$ regions worldwide.
 
 The contact matrices indicate interactions between individuals in different contexts (e.g., home, work, school, community) and are sourced the following studies:
 - [Inferring high-resolution human mixing patterns for disease modeling](https://www.nature.com/articles/s41467-020-20544-y) (`mistry_2021`)
